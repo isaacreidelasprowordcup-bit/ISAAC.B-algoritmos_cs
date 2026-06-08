@@ -1,0 +1,15 @@
+C:\Users\26141\algoritmos_cs\NomeLadosTriangulos\NomeTriangulo\bin\Debug\net9.0\NomeTriangulo.exe
+C:\Users\26141\algoritmos_cs\NomeLadosTriangulos\NomeTriangulo\bin\Debug\net9.0\NomeTriangulo.deps.json
+C:\Users\26141\algoritmos_cs\NomeLadosTriangulos\NomeTriangulo\bin\Debug\net9.0\NomeTriangulo.runtimeconfig.json
+C:\Users\26141\algoritmos_cs\NomeLadosTriangulos\NomeTriangulo\bin\Debug\net9.0\NomeTriangulo.dll
+C:\Users\26141\algoritmos_cs\NomeLadosTriangulos\NomeTriangulo\bin\Debug\net9.0\NomeTriangulo.pdb
+C:\Users\26141\algoritmos_cs\NomeLadosTriangulos\NomeTriangulo\obj\Debug\net9.0\NomeTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\26141\algoritmos_cs\NomeLadosTriangulos\NomeTriangulo\obj\Debug\net9.0\NomeTriangulo.AssemblyInfoInputs.cache
+C:\Users\26141\algoritmos_cs\NomeLadosTriangulos\NomeTriangulo\obj\Debug\net9.0\NomeTriangulo.AssemblyInfo.cs
+C:\Users\26141\algoritmos_cs\NomeLadosTriangulos\NomeTriangulo\obj\Debug\net9.0\NomeTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\26141\algoritmos_cs\NomeLadosTriangulos\NomeTriangulo\obj\Debug\net9.0\NomeTriangulo.sourcelink.json
+C:\Users\26141\algoritmos_cs\NomeLadosTriangulos\NomeTriangulo\obj\Debug\net9.0\NomeTriangulo.dll
+C:\Users\26141\algoritmos_cs\NomeLadosTriangulos\NomeTriangulo\obj\Debug\net9.0\refint\NomeTriangulo.dll
+C:\Users\26141\algoritmos_cs\NomeLadosTriangulos\NomeTriangulo\obj\Debug\net9.0\NomeTriangulo.pdb
+C:\Users\26141\algoritmos_cs\NomeLadosTriangulos\NomeTriangulo\obj\Debug\net9.0\NomeTriangulo.genruntimeconfig.cache
+C:\Users\26141\algoritmos_cs\NomeLadosTriangulos\NomeTriangulo\obj\Debug\net9.0\ref\NomeTriangulo.dll

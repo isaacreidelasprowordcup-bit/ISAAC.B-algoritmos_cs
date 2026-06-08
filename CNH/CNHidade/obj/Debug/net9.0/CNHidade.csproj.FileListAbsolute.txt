@@ -1,0 +1,15 @@
+C:\Users\26141\algoritmos_cs\CNH\CNHidade\bin\Debug\net9.0\CNHidade.exe
+C:\Users\26141\algoritmos_cs\CNH\CNHidade\bin\Debug\net9.0\CNHidade.deps.json
+C:\Users\26141\algoritmos_cs\CNH\CNHidade\bin\Debug\net9.0\CNHidade.runtimeconfig.json
+C:\Users\26141\algoritmos_cs\CNH\CNHidade\bin\Debug\net9.0\CNHidade.dll
+C:\Users\26141\algoritmos_cs\CNH\CNHidade\bin\Debug\net9.0\CNHidade.pdb
+C:\Users\26141\algoritmos_cs\CNH\CNHidade\obj\Debug\net9.0\CNHidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\26141\algoritmos_cs\CNH\CNHidade\obj\Debug\net9.0\CNHidade.AssemblyInfoInputs.cache
+C:\Users\26141\algoritmos_cs\CNH\CNHidade\obj\Debug\net9.0\CNHidade.AssemblyInfo.cs
+C:\Users\26141\algoritmos_cs\CNH\CNHidade\obj\Debug\net9.0\CNHidade.csproj.CoreCompileInputs.cache
+C:\Users\26141\algoritmos_cs\CNH\CNHidade\obj\Debug\net9.0\CNHidade.sourcelink.json
+C:\Users\26141\algoritmos_cs\CNH\CNHidade\obj\Debug\net9.0\CNHidade.dll
+C:\Users\26141\algoritmos_cs\CNH\CNHidade\obj\Debug\net9.0\refint\CNHidade.dll
+C:\Users\26141\algoritmos_cs\CNH\CNHidade\obj\Debug\net9.0\CNHidade.pdb
+C:\Users\26141\algoritmos_cs\CNH\CNHidade\obj\Debug\net9.0\CNHidade.genruntimeconfig.cache
+C:\Users\26141\algoritmos_cs\CNH\CNHidade\obj\Debug\net9.0\ref\CNHidade.dll
