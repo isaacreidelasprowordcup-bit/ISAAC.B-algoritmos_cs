@@ -1,2 +1,2 @@
-# ISAAC.B-algoritmos_cs
-CS
+# algoritmos_cs
+Algoritmos com .Net e C Sharp no modo console
