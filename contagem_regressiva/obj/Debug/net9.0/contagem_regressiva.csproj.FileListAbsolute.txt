@@ -1,0 +1,14 @@
+C:\Users\26112\exercicios\contagem_regressiva\obj\Debug\net9.0\contagem_regressiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\26112\exercicios\contagem_regressiva\obj\Debug\net9.0\contagem_regressiva.AssemblyInfoInputs.cache
+C:\Users\26112\exercicios\contagem_regressiva\obj\Debug\net9.0\contagem_regressiva.AssemblyInfo.cs
+C:\Users\26112\exercicios\contagem_regressiva\obj\Debug\net9.0\contagem_regressiva.csproj.CoreCompileInputs.cache
+C:\Users\26112\exercicios\contagem_regressiva\bin\Debug\net9.0\contagem_regressiva.exe
+C:\Users\26112\exercicios\contagem_regressiva\bin\Debug\net9.0\contagem_regressiva.deps.json
+C:\Users\26112\exercicios\contagem_regressiva\bin\Debug\net9.0\contagem_regressiva.runtimeconfig.json
+C:\Users\26112\exercicios\contagem_regressiva\bin\Debug\net9.0\contagem_regressiva.dll
+C:\Users\26112\exercicios\contagem_regressiva\bin\Debug\net9.0\contagem_regressiva.pdb
+C:\Users\26112\exercicios\contagem_regressiva\obj\Debug\net9.0\contagem_regressiva.dll
+C:\Users\26112\exercicios\contagem_regressiva\obj\Debug\net9.0\refint\contagem_regressiva.dll
+C:\Users\26112\exercicios\contagem_regressiva\obj\Debug\net9.0\contagem_regressiva.pdb
+C:\Users\26112\exercicios\contagem_regressiva\obj\Debug\net9.0\contagem_regressiva.genruntimeconfig.cache
+C:\Users\26112\exercicios\contagem_regressiva\obj\Debug\net9.0\ref\contagem_regressiva.dll
