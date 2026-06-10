@@ -1,0 +1,14 @@
+C:\Users\26112\exercicios\media_escolar\obj\Debug\net9.0\media_escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\26112\exercicios\media_escolar\obj\Debug\net9.0\media_escolar.AssemblyInfoInputs.cache
+C:\Users\26112\exercicios\media_escolar\obj\Debug\net9.0\media_escolar.AssemblyInfo.cs
+C:\Users\26112\exercicios\media_escolar\obj\Debug\net9.0\media_escolar.csproj.CoreCompileInputs.cache
+C:\Users\26112\exercicios\media_escolar\bin\Debug\net9.0\media_escolar.exe
+C:\Users\26112\exercicios\media_escolar\bin\Debug\net9.0\media_escolar.deps.json
+C:\Users\26112\exercicios\media_escolar\bin\Debug\net9.0\media_escolar.runtimeconfig.json
+C:\Users\26112\exercicios\media_escolar\bin\Debug\net9.0\media_escolar.dll
+C:\Users\26112\exercicios\media_escolar\bin\Debug\net9.0\media_escolar.pdb
+C:\Users\26112\exercicios\media_escolar\obj\Debug\net9.0\media_escolar.dll
+C:\Users\26112\exercicios\media_escolar\obj\Debug\net9.0\refint\media_escolar.dll
+C:\Users\26112\exercicios\media_escolar\obj\Debug\net9.0\media_escolar.pdb
+C:\Users\26112\exercicios\media_escolar\obj\Debug\net9.0\media_escolar.genruntimeconfig.cache
+C:\Users\26112\exercicios\media_escolar\obj\Debug\net9.0\ref\media_escolar.dll
